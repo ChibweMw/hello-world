@@ -1,0 +1,1 @@
+this is some new project where I get to learn a new skill, Git!
